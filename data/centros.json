@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Centro SP",
+        "lat": -23.55,
+        "lon": -46.64
+    },
+    {
+        "nome": "Centro RJ",
+        "lat": -22.9,
+        "lon": -43.2
+    },
+    {
+        "nome": "Centro MG",
+        "lat": -19.92,
+        "lon": -43.94
+    }
+]
