@@ -1,0 +1,51 @@
+[
+    {
+        "nome": "Notebook Lenovo",
+        "localizacao": {
+            "lat": -23.5505,
+            "lon": -46.6333
+        }
+    },
+    {
+        "nome": "Mouse Logitech",
+        "localizacao": {
+            "lat": -22.9707,
+            "lon": -43.1823
+        }
+    },
+    {
+        "nome": "Notebook Dell",
+        "localizacao": {
+            "lat": -41.0022,
+            "lon": -38.3232
+        }
+    },
+    {
+        "nome": "Apple iPhone 17 pro max",
+        "localizacao": {
+            "lat": -20.5505,
+            "lon": -40.633
+        }
+    },
+    {
+        "nome": "Apple iPhone 16 pro max",
+        "localizacao": {
+            "lat": -20.5505,
+            "lon": -40.633
+        }
+    },
+    {
+        "nome": "Notebook Nevono",
+        "localizacao": {
+            "lat": -20.5505,
+            "lon": -40.633
+        }
+    },
+    {
+        "nome": "Notebook Samsung Galaxy Book",
+        "localizacao": {
+            "lat": -18.5505,
+            "lon": -30.633
+        }
+    }
+]

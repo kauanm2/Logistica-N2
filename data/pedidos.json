@@ -1,0 +1,24 @@
+[
+    {
+        "produto": "Notebook Samsung Galaxy Book",
+        "origem_produto": {
+            "lat": -18.5505,
+            "lon": -30.633
+        },
+        "destino_cliente": "Marlon",
+        "centro_selecionado": "Centro MG",
+        "distancia_cliente_km": 80.21,
+        "data_processamento": "31/10/2025 13:52:44"
+    },
+    {
+        "produto": "Notebook Lenovo",
+        "origem_produto": {
+            "lat": -23.5505,
+            "lon": -46.6333
+        },
+        "destino_cliente": "Kauã Miranda",
+        "centro_selecionado": "Centro SP",
+        "distancia_cliente_km": 166.1,
+        "data_processamento": "31/10/2025 13:54:20"
+    }
+]
